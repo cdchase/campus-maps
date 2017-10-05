@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "How Maps Can Use Data for Enhancement Using MongoDB & NodeJS",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "cdchase",
+    "githubRepository": "campus-maps"
+  }
+}
