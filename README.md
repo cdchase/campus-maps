@@ -10,7 +10,7 @@ We all need maps. Our campuses are huge! Ours is state-wide! Only showing the lo
 
 ## Notes
 
-The recent site redesign at SUNY Empire State college included a new location listing with an integrated map. 
+The recent site redesign at SUNY Empire State college included a new [location listing](https://www.esc.edu/locations/) with an integrated map. 
 As our 'campus' is the entire state of New York, it is a little different than most campuses with a single location and multiple buildings.
 However, in the function of a 'map,' there is a great deal of similarity.
 
