@@ -1,0 +1,8 @@
+# Unignore everything
+!**/*
+
+node_modules
+dist
+*.log
+.sass-cache
+/index.html
