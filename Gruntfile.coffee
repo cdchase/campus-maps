@@ -87,6 +87,9 @@ module.exports = (grunt) ->
                     src: ['index.html']
                     dest: 'dist/'
                     filter: 'isFile'
+                },{
+                    src: ['./gitignore']
+                    dest: 'dist/.gitignore'
                 }]
 
 
