@@ -34,14 +34,14 @@ module.exports = (grunt) ->
                 tasks: ['jshint']
 
             sass:
-                files: ['css/source/theme.scss']
+                files: ['css/theme/**/*.scss']
                 tasks: ['sass']
 
         sass:
 
             theme:
                 files:
-                    'css/theme.css': 'css/source/theme.scss'
+                    'css/solarized.css': 'css/theme/source/solarized.scss'
 
         connect:
 
