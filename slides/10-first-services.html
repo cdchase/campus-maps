@@ -1,0 +1,23 @@
+<h2>First Services</h2>
+
+<h3>Redesign Needs</h3>
+<p>Vendor needed KML for location page design with Google Maps.</p>
+<p>KML - <a href="https://developers.google.com/kml/documentation/kml_tut">Keyhole Markup Language</a>, an XML variant originally for Google Earth.</p>
+<code>
+    <pre>
+    &lt;?xml version="1.0" encoding="UTF-8"?>
+    &lt;kml xmlns="http://www.opengis.net/kml/2.2">
+      &lt;Placemark>
+        &lt;name>Simple placemark&lt;/name>
+        &lt;description>Attached to the ground. Intelligently places itself
+            at the height of the underlying terrain.&lt;/description>
+        &lt;Point>
+          &lt;coordinates>-122.0822035425683,37.42228990140251,0&lt;/coordinates>
+        &lt;/Point>
+      &lt;/Placemark>
+    &lt;/kml>
+    </pre>
+</code>
+<p>Static JSON data for locations used via PHP, became first import to MongoDB</p>
+<h3>Location data on information sessions pages</h3>
+<p>Above gave location name & geographic coordinates; then additional location data was added from static location pages.</p>

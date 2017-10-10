@@ -1,7 +1,19 @@
 [
-    "index.md",
-    "introduction.html",
-    "in-the-beginning.html",
-    "the-first-telephone-directory.html",
-    "aerial-campus-photos.html"
+    "00-index.md",
+    "01-in-the-beginning.html",
+    "02-the-first-telephone-directory.html",
+    "03-aerial-campus-photos.html",
+    "04-first-steps.html",
+    "05-decisions-to-be-made.html",
+    "06-our-choices.html",
+    "07-why-nosql.html",
+    "08-why-nodejs.html",
+    "09-solutions.html",
+    "10-first-services.html",
+    "11-api-output.html",
+    "12-web-page-use.html",
+    "13-web-page-use.html",
+    "14-web-page-use.html",
+    "15-tools-used.html",
+    "16-contact-me.html"
 ]
